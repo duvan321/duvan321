@@ -16,7 +16,7 @@
 - 🌱 I am currently learning *react.js, javascript, jax, php, english.*
 - 💬 Ask me about *html, css, javascript, react.*
 - 📫 How to contact me
-*diegoduvan321@gmail.com*
+*patinodiegoduvan123@gmail.com*
 
 <div align="left">
 <h3>🔨Languages ​​and Tools:</h3>

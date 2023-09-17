@@ -26,14 +26,9 @@
 <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" title="JAVASCRIPT" alt="JAVASCRIPT" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original-wordmark.svg" title="REACT" alt="REACT" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/raw/master/icons/bootstrap/bootstrap-plain.svg" title="BOOTSTRAP" alt="BOOTSTRAP" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/raw/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original-wordmark.svg" title="MYSQL" alt="MYSQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" title="GIT" alt="GIT" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/raw/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/raw/master/icons/laravel/laravel-plain.svg" title="GIT" alt="GIT" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-plain.svg" title="GIT" alt="GIT" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-
+ <img src="https://skillicons.dev/icons?i=vite,redux,nodejs,postgres,postman,sequelize,msq" />
 
 - - -
 ### 📊 My stats :

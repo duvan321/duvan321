@@ -12,7 +12,7 @@
 - - -
 - 🙎‍♂️ About Me :
 
-- 👨‍💻 I am currently studying *in platzi programming.*
+- 👨‍💻 I am currently studying programming at *Soy Henry's boo camp*
 - 🌱 I am currently learning *react.js, javascript, jax, php, english.*
 - 💬 Ask me about *html, css, javascript, react.*
 - 📫 How to contact me

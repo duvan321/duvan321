@@ -14,9 +14,8 @@
 
 - 👨‍💻 Actualmente estoy estudiando programación en *Soy Henry's boo camp*
 - 🌱 Actualmente estoy aprendiendo *react,redux,node.js,sql, javascript, ingles.*
-- 💬 Pregúntame sobre *html, css, javascript, reaccionar.*
 - 📫 Cómo contactarme
-*patinodiegoduvan123@gmail.com*
+*diegoduvan321@gmail.com*
 - puedes visitarme en mi linkedin: https://www.linkedin.com/in/diego-pati%C3%B1o1996/
 
 <div align="left">

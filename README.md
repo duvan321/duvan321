@@ -1,7 +1,7 @@
 <div id="header" align="center">
 <img src="https://media1.giphy.com/media/idSEtVpsq0zpzKIhW1/200w.webp?cid=ecf05e47bl8ra0iwcts6dex3z8yo7r1ip9namkitca2m8pff&rid=200w.webp&ct=g" width="200"/>
 <h1 align="center">Hola 👋, soy Diego Duvan Patiño Monrroy.</h1>
-<h3 align="center">Me apasiona estudiar, soy colombiano y me gusta lo que hago en cuanto a programación.
+<h3 align="center">Me apasiona estudiar, soy colombiano y me gusta lo que hago en cuanto a programación.</h3>
 </div>
 
 <div id="badges" align="center"><a href="https://github.com/duvan321/duvan321/edit/main/README.md" target="_blank">

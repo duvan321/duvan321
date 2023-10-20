@@ -12,7 +12,7 @@
 - - -
 - 🙎‍♂️ Acerca de mí:
 
-- 👨‍💻 Actualmente estoy estudiando programación en *Soy Henry's bootcamp*
+- 👨‍💻 Actualmente estoy estudiando programación en *Soy Henry bootcamp*
 - 🌱 Actualmente estoy aprendiendo *react,redux,node.js,sql, javascript, ingles.*
 - 📫 Cómo contactarme
 *diegoduvan321@gmail.com*

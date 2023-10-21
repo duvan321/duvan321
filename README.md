@@ -16,7 +16,9 @@
 - 🌱 Actualmente estoy aprendiendo *react,redux,node.js,sql, javascript, ingles.*
 - 📫 Cómo contactarme
 *diegoduvan321@gmail.com*
-- puedes visitarme en mi linkedin: https://www.linkedin.com/in/diego-pati%C3%B1o1996/
+- puedes visitarme en mi linkedin: www.linkedin.com/in/diego-patiño1996
+
+
 
 <div align="left">
 <h3>🔨Idiomas y Herramientas:</h3>

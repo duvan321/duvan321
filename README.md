@@ -17,6 +17,7 @@
 - 📫 Cómo contactarme
 *diegoduvan321@gmail.com*
 - puedes visitarme en mi linkedin: www.linkedin.com/in/diego-patino1996
+- mi portafolio: https://portafolio-tau-red.vercel.app/
 
 
 
